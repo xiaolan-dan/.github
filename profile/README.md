@@ -8,7 +8,7 @@ PidanUI 是一个非官方的粉丝创作项目，旨在为 Windows / Linux 桌�
 
 PidanUI 主要由原 EggyUI 核心项目组成员维护：
 
-- **冷落的小情绪**：核心开发者，主导 PidanUI 的技术路线与组件架构。
+- **冷落的小情绪**：核心开发者，主导 PidanUI 的技术路线与组件架构。（不是技术大牛）
 - **red.blue.light**：核心开发者，负责 PidanUI 的开发推进。
 - **Pidan-Eggy**：项目发起人之一，负责项目对外展示与社区运营。
 - **快乐的泡泡**：官网维护者，EggyUI / PidanUI 的“上线了”官网的所有者。
