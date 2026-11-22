@@ -51,4 +51,4 @@ PidanUI 团队欢迎对《蛋仔派对》风格桌面美化感兴趣的开发者
 
 - **QQ 交流群**：[PidanUI 交流群 - 1区](https://qm.qq.com/q/IIwIhrHycq)
 - **哔哩哔哩**：[嘎达皮蛋](https://space.bilibili.com/3493144343612119)
-
+- **哔哩哔哩**：[EGGYUI/PIDANUI官方](https://space.bilibili.com/3546563248916693)
